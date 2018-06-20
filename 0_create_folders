@@ -1,5 +1,5 @@
 #open Terminal
-mkdir -p /Users/cheng/Desktop/raw
-mkdir -p /Users/cheng/Desktop/play
-mkdir -p /Users/cheng/Desktop/down
-mkdir -p /Users/cheng/Desktop/search
+mkdir -p /Users/cheng/Desktop/music/raw
+mkdir -p /Users/cheng/Desktop/music/play
+mkdir -p /Users/cheng/Desktop/music/down
+mkdir -p /Users/cheng/Desktop/music/search
