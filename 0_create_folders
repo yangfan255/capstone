@@ -1,0 +1,5 @@
+#open Terminal
+mkdir -p /Users/cheng/Desktop/raw
+mkdir -p /Users/cheng/Desktop/play
+mkdir -p /Users/cheng/Desktop/down
+mkdir -p /Users/cheng/Desktop/search
